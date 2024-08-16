@@ -46,4 +46,4 @@ perro.bark(); // Salida: Rex dice: ¡Guau!
 perro.breathe(); //Salida: Rex está respirando.
 const gato = new _Cat("Óscar", "macho", 3, 7, "marrón", true);
 gato.meow(); // Salida: Óscar dice: ¡Miau!
-gato.run('casa'); // Salida; Óscar está corriendo hacia casa.
+gato.run("casa"); // Salida; Óscar está corriendo hacia casa.
